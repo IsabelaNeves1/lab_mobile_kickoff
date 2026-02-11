@@ -1,16 +1,16 @@
-# lab_mobile_kickoff
+# Lab Mobile - Kick Off
 
-A new Flutter project.
+Este projeto é o ponto de partida para a disciplina de Dispositivos Móveis.
 
-## Getting Started
+## Objetivo
+Demonstrar a configuração inicial do ambiente Flutter e a organização de camadas (Clean Architecture).
 
-This project is a starting point for a Flutter application.
+## Estrutura de Pastas
+- `lib/domain`: Contém os modelos de negócio (`ServicoModel`).
+- `lib/data`: Contém a implementação do repositório em memória.
+- `lib/presentation`: Camada de interface (Widgets).
+- `lib/application`: Lógica de gerenciamento de estado.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Desenvolvido por:
+- Isabela Neves - FATEC Matãogit add README.md
+git commit -m "docs: adicionar readme com descrição do projeto"
