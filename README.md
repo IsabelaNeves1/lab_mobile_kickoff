@@ -13,4 +13,4 @@ Demonstrar a configuração inicial do ambiente Flutter e a organização de cam
 
 ## Desenvolvido por:
 - Isabela Neves - FATEC Matãogit add README.md
-git commit -m "docs: adicionar readme com descrição do projeto"
+git commit -m "docs: adicionar readme com descrição do projeto"4e
